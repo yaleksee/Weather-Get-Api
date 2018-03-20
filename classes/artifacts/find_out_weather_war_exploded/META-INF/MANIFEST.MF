@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: find-out-weather
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: aleks
+Implementation-Vendor-Id: ru.test.savimar
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_131
+Main-Class: ${start-class}
+
